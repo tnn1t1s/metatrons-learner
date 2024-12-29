@@ -11,7 +11,7 @@ def generate_data(samples=1000):
     x4 = np.random.rand(samples)
     x5 = np.random.rand(samples)
 
-    # Generate labels based on a "cool" rule:
+    # Generate labels based on a rule:
     # Combine weighted sums and a nonlinear term
     y = (0.3 * x1 + 0.2 * x2 - 0.4 * x3 + 0.1 * np.sin(5 * x4) + 0.5 * x5 > 0.5).astype(int)
 
