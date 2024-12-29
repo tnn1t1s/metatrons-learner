@@ -1,7 +1,7 @@
 
 # Metatron's Cube Classifier: A Study of Stylized Neural Networks
 
-## 1. Executive Summary
+## 1. Introduction
 This project explores the intersection of **sacred geometry** and **machine learning** by testing the predictive power of **Metatron's Cube** as the structure for a neural network classifier. Metatron's Cube, a symbol of balance, harmony, and interconnectedness, inspires the architecture of a neural network designed to solve a classification problem with five inputs and one output. Beyond functionality, this project delves into the aesthetics of neural network visualization, transforming the structure into an artistic and thought-provoking representation.
 
 The project includes:
@@ -12,7 +12,7 @@ The project includes:
 
 ---
 
-## 2. Introduction to Metatron's Cube
+## 2. Metatron's Cube
 **Metatron's Cube** is a **sacred geometric pattern** made up of 13 circles of equal size interconnected by straight lines. It symbolizes the **balance, harmony, and interconnectedness** of all things in the universe. This structure is revered in various philosophical and spiritual traditions and is often associated with concepts of unity and divine energy.
 
 From a geometric perspective:
@@ -21,6 +21,8 @@ From a geometric perspective:
 - It is a **two-dimensional representation** of a **three-dimensional shape**, and within its structure, it contains the five Platonic solids, foundational building blocks of geometry.
 
 This project leverages the **spatial harmony** and connectivity of Metatron’s Cube to create a neural network inspired by its structure.
+
+![GettyImages-927394794-5aca4e8b04d1cf003765883c](https://github.com/user-attachments/assets/a96d15fe-3818-4335-ba49-79942953b31d)
 
 ---
 
@@ -68,6 +70,8 @@ The final visualization includes:
 - **Outer nodes** in a hexagonal arrangement.
 - **Inner nodes** in a smaller hexagon.
 - **A central node**, emphasized as the focal point of the structure.
+  
+<img width="558" alt="Screenshot 2024-12-29 at 1 08 22 PM" src="https://github.com/user-attachments/assets/8c328683-4504-427a-ab14-d324cbc3888f" />
 
 ---
 
